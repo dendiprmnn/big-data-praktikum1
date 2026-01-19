@@ -1,12 +1,5 @@
 # **LAPORAN PRAKTIKUM – TOOLS BIG DATA (HDFS, MongoDB, Cassandra)**
 
-## 👩🏻‍💻 Identitas
-
-**Nama:** Intan Virginia Aulia Putri
-**NIM:** 312310657
-**Kelas:** Informatika – Semester 3
-**Mata Kuliah:** Big Data
-
 ---
 
 ## **BAGIAN 1 – PRAKTIKUM HDFS**
@@ -205,15 +198,3 @@ Semua data berhasil dimasukkan dan ditampilkan dalam format JSON. MongoDB menduk
 | Kelebihan  | Dapat menyimpan data sangat besar, fault-tolerant | Skema fleksibel, mudah digunakan | Skalabilitas tinggi, cepat untuk query besar                         |
 | Kekurangan | Tidak cocok untuk data kecil                      | Lemah di query kompleks          | Tidak mendukung join                                                 |
 | Use Case   | Penyimpanan data besar (log, dataset ML)          | Aplikasi web, analitik, IoT      | Sistem dengan data besar yang tersebar (telekomunikasi, sensor data) |
-
----
-
-## **Kesimpulan**
-
-Dari hasil praktikum:
-
-* **HDFS** efektif untuk penyimpanan file besar secara terdistribusi.
-* **MongoDB** unggul dalam pengelolaan data fleksibel dengan struktur dokumen.
-* **Cassandra** cocok untuk aplikasi dengan volume data besar dan kebutuhan replikasi tinggi.
-
-Ketiganya memiliki peran penting di dunia *Big Data ecosystem*, tergantung kebutuhan penyimpanan dan pola akses datanya.
